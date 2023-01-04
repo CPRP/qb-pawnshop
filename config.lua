@@ -62,7 +62,7 @@ Config.MeltingItems = { -- meltTime is amount of time in minutes per item
         rewards = {
             [1] = {
                 item = 'goldbar',
-                amount = 2
+                amount = 1
             }
         },
         meltTime = 0.15
