@@ -61,7 +61,7 @@ Config.MeltingItems = { -- meltTime is amount of time in minutes per item
         item = 'goldchain',
         rewards = {
             [1] = {
-                item = 'goldbar',
+                item = 'goldingot',
                 amount = 1
             }
         },
@@ -75,7 +75,7 @@ Config.MeltingItems = { -- meltTime is amount of time in minutes per item
                 amount = 1
             },
             [2] = {
-                item = 'goldbar',
+                item = 'goldingot',
                 amount = 1
             }
         },
@@ -89,7 +89,7 @@ Config.MeltingItems = { -- meltTime is amount of time in minutes per item
                 amount = 1
             },
             [2] = {
-                item = 'goldbar',
+                item = 'goldingot',
                 amount = 1
             },
             [3] = {
@@ -107,7 +107,7 @@ Config.MeltingItems = { -- meltTime is amount of time in minutes per item
                 amount = 5
             },
             [2] = {
-                item = 'goldbar',
+                item = 'goldingot',
                 amount = 1
             }
         },
